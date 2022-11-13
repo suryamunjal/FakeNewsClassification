@@ -15,5 +15,7 @@ part3 is where we try to use SOTA BERT for text Classification
 
 Also lime has been used for interpreting the results.
 
+![f](https://user-images.githubusercontent.com/27913073/201527002-54cfd411-330f-4c3e-8809-5bbf32663b89.png)
+
 
 
